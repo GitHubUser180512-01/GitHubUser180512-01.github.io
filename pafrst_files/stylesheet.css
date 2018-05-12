@@ -1,0 +1,435 @@
+.c {
+    -webkit-writing-mode: vertical-rl;
+    display: block;
+    font-family: serif;
+    font-size: 1em;
+    line-height: 1.6em;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.c1 {
+    -webkit-writing-mode: vertical-rl;
+    display: block;
+    page-break-after: always
+    }
+.c2 {
+    -webkit-writing-mode: horizontal-tb;
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%
+    }
+.c3 {
+    display: inline-block;
+    height: 100%;
+    text-align: justify;
+    vertical-align: middle
+    }
+.c4 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    min-width: 1.6em;
+    text-align: left
+    }
+.c5 {
+    font-size: 0.75em;
+    line-height: 1.6em
+    }
+.c6 {
+    font-family: "ＭＳ ゴシック";
+    font-size: 1.125em;
+    font-weight: bold;
+    line-height: 1.6em
+    }
+.c7 {
+    font-size: 1em;
+    line-height: 1.6em
+    }
+.c8 {
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    min-width: 1.6em;
+    text-align: right
+    }
+.c9 {
+    -webkit-writing-mode: vertical-rl;
+    display: block;
+    height: 100%;
+    page-break-after: always
+    }
+.c10 {
+    display: block;
+    text-align: justify
+    }
+.c11 {
+    border-top-color: transparent;
+    border-top-style: solid;
+    border-top-width: 2em;
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    min-width: 1.6em;
+    text-align: left;
+    text-indent: -2em
+    }
+.c12 {
+    font-family: "ＭＳ ゴシック";
+    font-size: 1em;
+    font-weight: bold;
+    line-height: 1.6em
+    }
+.c13 {
+    display: block;
+    padding-right: 1px;
+    text-align: justify
+    }
+.c14 {
+    border-top-color: transparent;
+    border-top-style: solid;
+    border-top-width: 1em;
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    min-width: 1.6em;
+    text-align: left;
+    text-indent: -1em
+    }
+.c15 {
+    border-right-color: currentColor;
+    border-right-style: solid;
+    border-right-width: 1px;
+    font-size: 1.125em;
+    line-height: 1.2;
+    text-decoration: none
+    }
+.c16 {
+    font-family: "ＭＳ ゴシック";
+    font-weight: bold;
+    line-height: 1.6em
+    }
+.c17 {
+    display: block;
+    height: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    overflow: hidden;
+    padding-bottom: 0;
+    padding-left: 0;
+    padding-right: 0;
+    padding-top: 0;
+    position: absolute;
+    visibility: hidden;
+    width: 0
+    }
+.c18 {
+    border-bottom-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-width: 2em;
+    border-top-color: transparent;
+    border-top-style: solid;
+    border-top-width: 5em;
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    min-width: 1.6em;
+    text-align: left;
+    text-indent: -5em
+    }
+.c19 {
+    line-height: 1.6em
+    }
+.c20 {
+    border-bottom-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-width: 2em;
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    min-width: 1.6em;
+    text-align: left;
+    text-indent: 0
+    }
+.c21 {
+    border-right-color: currentColor;
+    border-right-style: solid;
+    border-right-width: 1px;
+    font-size: 0.75em;
+    text-decoration: none
+    }
+.c22 {
+    -webkit-writing-mode: horizontal-tb;
+    line-height: 1.2;
+    text-indent: 0
+    }
+.c23 {
+    display: none
+    }
+.c24 {
+    border-right-color: currentColor;
+    border-right-style: solid;
+    border-right-width: 1px;
+    font-size: 1em;
+    text-decoration: none
+    }
+.c25 {
+    border-bottom-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-width: 2em;
+    border-top-color: transparent;
+    border-top-style: solid;
+    border-top-width: 4em;
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    min-width: 1.6em;
+    text-align: left;
+    text-indent: -4em
+    }
+.c26 {
+    border-bottom-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-width: 2em;
+    border-top-color: transparent;
+    border-top-style: solid;
+    border-top-width: 2em;
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    min-width: 1.6em;
+    text-align: left;
+    text-indent: 0
+    }
+.c27 {
+    border-bottom-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-width: 2em;
+    display: block;
+    font-size: 1.5em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    min-width: 1.6em;
+    text-align: center;
+    text-indent: 0
+    }
+.c28 {
+    font-size: 1em;
+    line-height: 1.2
+    }
+.c29 {
+    display: inline-block;
+    line-height: 1;
+    text-indent: 0
+    }
+.c30 {
+    height: auto;
+    width: auto
+    }
+.c31 {
+    border-bottom-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-width: 2em;
+    display: block;
+    font-size: 1.5em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    min-width: 1.6em;
+    text-align: left;
+    text-indent: 0
+    }
+.c32 {
+    border-bottom-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-width: 2em;
+    border-top-color: transparent;
+    border-top-style: solid;
+    border-top-width: 1em;
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    min-width: 1.6em;
+    text-align: left;
+    text-indent: -1em
+    }
+.c33 {
+    border-bottom-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-width: 2em;
+    border-top-color: transparent;
+    border-top-style: solid;
+    border-top-width: 2em;
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    min-width: 1.6em;
+    text-align: left;
+    text-indent: -2em
+    }
+.c34 {
+    border-bottom-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-width: 2em;
+    border-top-color: transparent;
+    border-top-style: solid;
+    border-top-width: 3em;
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    min-width: 1.6em;
+    text-align: left;
+    text-indent: -3em
+    }
+.c35 {
+    border-bottom-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-width: 2em;
+    border-top-color: transparent;
+    border-top-style: solid;
+    border-top-width: 1em;
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    min-width: 1.6em;
+    text-align: left;
+    text-indent: 0
+    }
+.c36 {
+    display: none;
+    height: auto;
+    width: auto
+    }
+.c37 {
+    font-family: "ＭＳ ゴシック";
+    font-size: 0.75em;
+    font-weight: bold;
+    line-height: 1.6em
+    }
+.c38 {
+    border-left-color: currentColor;
+    border-left-style: solid;
+    border-left-width: 1px;
+    font-size: 1em;
+    text-decoration: none
+    }
+.c39 {
+    border-bottom-color: transparent;
+    border-bottom-style: solid;
+    border-bottom-width: 2em;
+    display: block;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    min-width: 1.6em;
+    text-align: right;
+    text-indent: 0
+    }
+.c40 {
+    -webkit-text-combine: horizontal
+    }
+.c41 {
+    font-size: 1.125em;
+    line-height: 1.6em
+    }
+.calibre {
+    display: block;
+    page-break-after: always
+    }
+.calibre1 {
+    font-size: 0.75em
+    }
+.calibre2 {
+    text-decoration: none
+    }
+.calibre3 {
+    background-color: #000;
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: 1px;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: 1px;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: 1px;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: 1px;
+    color: gray;
+    display: block;
+    height: 100%;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.5em;
+    width: 1px
+    }
+.calibre4 {
+    background-color: #000;
+    border-bottom-color: currentColor;
+    border-bottom-style: none;
+    border-bottom-width: 1px;
+    border-left-color: currentColor;
+    border-left-style: none;
+    border-left-width: 1px;
+    border-right-color: currentColor;
+    border-right-style: none;
+    border-right-width: 1px;
+    border-top-color: currentColor;
+    border-top-style: none;
+    border-top-width: 1px;
+    color: gray;
+    display: block;
+    height: 100%;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: auto;
+    margin-top: 0.5em;
+    width: 1px
+    }
+.default-sideways {
+    -epub-text-orientation: sideways
+    }
+.default-upright {
+    -epub-text-orientation: upright
+    }
+.gaiji {
+    height: auto;
+    width: 1em
+    }
